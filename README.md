@@ -1,4 +1,4 @@
-# infinite.circle
+# infinite.circle ⚪️
 
 🇧🇷 - É uma tela em azul escuro, onde você há a passagem de três (3) círculos que surgem de pontos aleatórios, a cor pode mudar se você pressionar o botão do mouse ou clicar na tela do seu dispositivo. Aperte F5 ou CTRL+R para reiniciar a página e a tela! :)
 
